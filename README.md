@@ -1,6 +1,6 @@
 # Mustansir Godhrawala
 
-**Tech Lead @ Engaze** | **M.Tech Cyber Security, NFSU, Gandhinagar** | **B.Tech Cyber Security, Shah and Anchor Kutchhi Engineering College, Mumbai** | **Founder @ CyferWall** | **Full-Stack Engineer** | **Avid Binge-Watcher** | **Cyber-Security Enthusiast** 
+**Tech Lead @ Engaze** | **B.Tech Cyber Security, Shah and Anchor Kutchhi Engineering College, Mumbai** | **Founder @ CyferWall** | **Full-Stack Engineer** | **Avid Binge-Watcher** | **Cyber-Security Enthusiast** 
 
 **Looking for mentorship?
 Book a call via my [topmate.io](https://topmate.io/mustansirg)**<br>
